@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="flightSegmentColor">#00000a</color>
+    <color name="flightSegmentLayoutColor">#191c29</color>
+    <color name="flightTaskListLayoutColor">#dfe0e7</color>
+    <color name="flightCompletedTaskListColor">#bbbbbb</color>
+    <color name="flightSeperatorLine">#a8aabd</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#191c29</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="Transparent">#00000000</color>
+    <color name="task_grey">#dfe0e7</color>
+    <color name="grey_Delay">#DDDDDD</color>
+    <color name="grey">#C0C0C0</color>
+    <color name="colorGray_reportCard">#CB272B46</color>
+    <color name="delay_red">#EB2027</color>
+    <color name="darkgrey">#666666</color>
+    <color name="orange">#F89215</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorGreen">#5BCA0B</color>
+    <color name="colorGyTextview">#B096928F</color>
+
+
+    <color name="colorDashBoardLeft">#eaf0f8</color>
+    <color name="colorDashBoardCardview">#dfe0e7</color>
+    <color name="colorDashBoardBayCardview">#f3f3f3</color>
+    <color name="colorDashBoardBay">#ff0030</color>
+    <color name="colorDashBoardBayNo">#25265e</color>
+    <color name="colorDashBoardTiming">#2b3b6a</color>
+    <color name="colorDashBoardTeams">#f5f5f5</color>
+    <color name="colorDashBoardTeamsbackground">#d8d8d8</color>
+    <color name="colorCopa">#234099</color>
+
+</resources>
